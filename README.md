@@ -267,7 +267,65 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 240 | [AiVoiceClonerPRO](https://github.com/AryanVBW/AiVoiceClonerPRO) | Python | An easy-to-use Voice Conversion framework based on VITS, powered by python. |
 | 241 | [VPrep_Interview_Bot](https://github.com/mainak0907/VPrep_Interview_Bot) | TypeScript, JavaScript, CSS | Interview Agent powered by Assembly AI and Gemini to help you improve Speaking skills in an interview. |
 | 242 | [HealthAI Assistant](https://github.com/NikhilRaikwar/HealthAI-Assistant) | TypeScript | An AI-powered healthcare assistant that provides medical information, symptom analysis, and health recommendations using Google's Gemini AI. |
-
+| 243 | [whisper.net](https://github.com/sandrohanea/whisper.net/) | C# | Speech-to-text made simple using Whisper Models. |
+| 244 | [post-quantum-helper](https://github.com/profullstack/post-quantum-helper) | JavaScript | A tool that automates file uploading, originally for UploadThing, and features Post-Quantum Secure key encapsulation (ML-KEM). |
+| 245 | [ut](https://github.com/MhemedAbderrahmen/ut) | Go | A tool primarily made to automate file uploading to UploadThing. Contributions are welcome. |
+| 246 | [yappin](https://github.com/Polqt/yappin) | SvelteKit, TypeScript, TailwindCSS, Go, PostgreSQL | A real-time chat application with modern features built with SvelteKit/Go; looking primarily for frontend contributors. |
+| 247 | [quantum-database-backups](https://github.com/profullstack/quantum-database-backups) | JavaScript | Automates secure database backups using Supabase CLI, encrypts them with Post-Quantum Encryption, and sends them via email. |
+| 248 | [Docspect](https://github.com/Sreyasiv/Docspect) | JavaScript | An AI-powered tool to detect risky clauses, summarize legal documents, and explore relevant case studies. |
+| 249 | [ab-img-gen](https://github.com/hanzalahwaheed/ab-img-gen) | TypeScript | A simple, fast tool to create side-by-side comparison images (Version A vs. Version B) for social media polls and design feedback. |
+| 250 | [make-it-oss](https://github.com/architech-devs/make-it-oss) | React, Express, Mongo (Full Stack) | Automates open-source readiness for any GitHub project by generating and validating community guideline files (LICENSE, README, etc.). |
+| 251 | [activelrs](https://github.com/RaceRocks/activelrs) | Ruby | A lightweight Rails gem (API wrapper) for working with xAPI data, enabling ORM-like filtering and ordering on fetched data. |
+| 252 | [access-anywhere](https://github.com/rahulparihar-30/access-anywhere) | React Native (Frontend) | The frontend for a project that aims to turn a phone into a secure remote for a computer's file system, focusing on true remote access and E2E encryption. |
+| 253 | [access-anywhere-server](https://github.com/rahulparihar-30/access-anywhere-server) | Python/Flask API (Backend) | The backend for a project aiming to provide secure, remote access to a computer's file system via a phone. |
+| 254 | [devmd](https://github.com/suryanshsingh2001/devmd) | TypeScript (Next.js) | A free tool that uses Gemini AI to convert Medium articles to clean dev.to Markdown in seconds, preserving formatting. |
+| 255 | [DocsGPT](https://github.com/arc53/DocsGPT) | Python, TypeScript | A platform for building private AI agents, assistants, and enterprise search for deep research and document analysis (PDFs, Office docs, etc.). |
+| 256 | [FolderFlow](https://github.com/VarunBhattacharya/FolderFlow) | Python | A simple Python script (Digital Butler) to automatically organize files in a directory by sorting them into dedicated subfolders based on file type. |
+| 257 | [asHelp](https://github.com/kris70lesgo/asHelp) | Next.js, TypeScript, Supabase | A platform to simplify assignment management by connecting students who need help with top-performing peers (toppers). |
+| 258 | [wandern](https://github.com/s-bose/wandern) | Python | A minimal CLI tool for managing database migrations, currently supporting SQLite and PostgreSQL, with optional LLM integration for generation. |
+| 259 | [portfolio](https://github.com/kingsmen732/portfolio) | React | An open-source, minimal, and fast Bento-style personal website built with React, easily customizable via a config file. |
+| 260 | [cua](https://github.com/trycua/cua) | Python, Swift | Open-source infrastructure (Sandboxes, SDKs, benchmarks) for Computer-Use Agents (AI agents that can control full desktops). |
+| 261 | [aethel](https://github.com/Homies-Tech-Innovation/aethel) | React, Node.js | A markdown editor with a planned AI agent that can take actions on documents; currently in the documentation/brainstorming phase. |
+| 262 | [StallOs](https://github.com/Zaki-Mohd/StallOs.git) | TypeScript, React, GSAP, Gemini, Supabase | An app featuring an AI Sous-Chef (Chaat-GPT) that provides live recipe advice. |
+| 263 | [Idea-Vault](https://github.com/Stavin13/Idea-Vault) | TypeScript (Full Stack) | A full-stack open-source platform for sharing ideas. |
+| 264 | [venuedating-web](https://github.com/profullstack/venuedating-web) | JavaScript (PWA) | A modern Progressive Web App (PWA) that connects people at their favorite venues, powered by Supabase. |
+| 265 | [floss-toolbox](https://github.com/Orange-OpenSource/floss-toolbox) | Python, Shell, Ruby | A repository gathering tools and scripts to help people manage GitHub and GitLab organizations or repositories using their APIs. |
+| 266 | [ai-content-catalyst](https://github.com/akash202004/ai-content-catalyst) | TypeScript | An AI-powered platform generating blog titles, social captions, and YouTube descriptions using Gemini AI with 30+ templates. |
+| 267 | [Tips-tools](https://github.com/pylapp/Tips-tools/) | HTML, Shell, Ruby | A GitHub project for users to save references of tools and web resources, built with a Shell/Ruby workflow. |
+| 268 | [turron](https://github.com/Fl1s/turron) | Java | A video search system (Video Shazam) that analyzes short clips to find their original source using perceptual hashing; needs frontend UI help. |
+| 269 | [gssocFAQ-Bot](https://github.com/piyushpatelcodes/gssocFAQ-Bot) | HTML, JavaScript | A popular 24/7 Discord bot designed to answer repetitive questions and provide project details for the GSSOC 2025 event. |
+| 270 | [QCX](https://github.com/QueueLab/QCX) | TypeScript | A "planet computer artificial general intelligence interface" for automation and exploration. |
+| 271 | [openplace](https://github.com/openplaceteam/openplace) | TypeScript | A free and open-source backend implementation of wplace, allowing users to run their own private server. |
+| 272 | [sedona-db](https://github.com/apache/sedona-db) | Rust | An open-source, single-node analytical database engine built in Rust that treats geospatial data as a first-class citizen for blazing-fast spatial analytics. |
+| 273 | [IDE21](https://github.com/nebojsatomic/IDE21) | PHP | A CMS that allows users to design and develop templates within the administration area, even using a mobile phone. |
+| 274 | [lexora](https://github.com/VesperAkshay/lexora) | Python | A production-ready Agentic RAG (Retrieval-Augmented Generation) SDK for building intelligent applications with semantic search and AI reasoning. |
+| 275 | [The-Nexus](https://github.com/whatsupsumit/The-Nexus) | JavaScript, CSS | A cutting-edge streaming entertainment platform built with React, featuring movies, TV series, and advanced user management. |
+| 276 | [FreifunkCompanion](https://gitlab.com/derTizen/FreifunkCompanion) | Kotlin | An Android application project for 'Freifunk' (free open wireless network), aiming to implement the news hub and map features, for F-Droid readiness. |
+| 277 | [taufeeq.tech](https://github.com/0xtaufeeq/taufeeq.tech) | JavaScript, TypeScript, Astro | A personal portfolio website showcasing work, built with Astro. |
+| 278 | [AlgoVisualizer](https://github.com/mahaveergurjar/AlgoVisualizer) | React.js, Vite, CSS Modules | An interactive web app to visualize sorting, pathfinding, and graph algorithms in real-time, perfect for beginners. |
+| 279 | [MyCSES](https://github.com/ks-iitjmu/MyCSES) | C++, Python, Java | A curated collection of CSES Problem Set solutions and explanations, organized by topic for mastering algorithms. |
+| 280 | [DEV_ELEVATE-main-](https://github.com/Satya900/DEV_ELEVATE-main-) | React, TypeScript, Tailwind CSS, Firebase | A modern learning platform (Develevate) for developers with interactive tutorials, a built-in code compiler, and structured learning paths. |
+| 281 | [Dev_Profiles](https://github.com/Gyanthakur/Dev_Profiles) | N/A | A place to list and showcase developer skills and profiles. |
+| 282 | [ShareBite](https://github.com/angelabera/ShareBite) | JavaScript, HTML, CSS | A responsive web platform connecting restaurants/households with NGOs/volunteers to reduce food waste and fight hunger. |
+| 283 | [sedona](https://github.com/apache/sedona) | Java, Scala, Python | Apache Sedona, the most popular open-source cluster computing engine for processing large-scale geospatial data; looking for GeoPandas API contributions. |
+| 284 | [echomail](https://github.com/Agent-Hellboy/echomail) | Go | An email reader for Mac that converts technical blogs and emails into audio for hands-free listening. |
+| 285 | [Poseidon-s-Trident](https://github.com/Cyber-Samurai-Group/Poseidon-s-Trident) | Python, TypeScript | A cybersecurity project focused on Threat Detection, Protection, and Response. |
+| 286 | [ouds-ios](https://github.com/Orange-OpenSource/ouds-ios/) | Swift | An open-source brand new design system for iOS, with small issues perfect for newcomers. |
+| 287 | [meshhook](https://github.com/profullstack/meshhook) | SvelteKit, Svelte 5, Supabase (Postgres) | An MIT-licensed, webhook-first workflow engine featuring a visual builder and Temporal-like durability via event sourcing. |
+| 288 | [diy-analytics](https://github.com/heysagnik/diy-analytics) | Next JS, MongoDB | A self-hostable analytics platform built with simplicity in mind, seeking contributions to take it to the next level. |
+| 289 | [SkyBuddy](https://github.com/SrinjoyeeDey/SkyBuddy) | React, TypeScript, Tailwind CSS | A beautiful, lightning-fast, and interactive weather dashboard with features like city search, favorites, and planned AI enhancements. |
+| 290 | [dodo-bot](https://github.com/mohitjoer/dodo-bot) | Python | A Discord bot that helps users fetch GitHub profiles and repository details directly from Discord. |
+| 291 | [Hacktoberfest2025-Pixelated-Draw](https://github.com/yesiamrajeev/Hacktoberfest2025-Pixelated-Draw) | JavaScript, CSS, HTML | A pixelated drawing project welcoming contributions to improve the design. |
+| 292 | [loadbalancer](https://github.com/ardatosun/loadbalancer) | Go | A load balancer implementation built for fun, looking for contributors to help continue its development. |
+| 293 | [SauLM](https://github.com/Athaxv/SauLM) | TypeScript, JavaScript | A persona-based AI legal assistant that provides concise, law-focused guidance tailored to different personalities (e.g., Harvey Specter). |
+| 294 | [kanadojo](https://github.com/lingdojo/kanadojo) | TypeScript | A fun, minimalist, and aesthetic platform for learning kanji and Japanese, inspired by Monkeytype, with over 5,000 monthly active users. |
+| 295 | [DecodeDsa](https://github.com/V-Sharanya/DecodeDsa) | TypeScript, React.js, Tailwind CSS | An interactive and responsive web app designed to visualize core Data Structures and Algorithms (DSA) concepts in a fun, easy-to-understand way. |
+| 296 | [election-bot](https://github.com/theSoberSobber/election-bot) | TypeScript | A Discord bot that allows you to conduct cryptographically secure elections and sell electoral bonds with automated price discovery. |
+| 297 | [custom-wordle](https://github.com/Glowstick0017/custom-wordle) | Next.js, TypeScript, Tailwind CSS | A Next.js app that lets users create and share custom Wordle games with ANY word length and customizable guess limits. |
+| 298 | [vyoma-ui](https://github.com/Srijan-Baniyal/vyoma-ui) | TypeScript | A beautiful component library built on top of Shadcn/ui, featuring "Spatial Wisdom Inside." |
+| 299 | [irx](https://github.com/arxlang/irx) | Python | A BSD-licensed, llvmlite-based toolchain that converts language-agnostic ASTx into LLVM IR and native binaries; focused on type support and codegen. |
+| 300 | [SysMood](https://github.com/RayBreeze/SysMood) | C++ | A simple Beginner Friendly C++ Based CLI Tool for Windows (Linux coming) that fetches system stats and interprets them into fun "moods." |
+| 301 | [discord-webhook-manager](https://github.com/ctrixcode/discord-webhook-manager) | TypeScript | A tool designed to make managing Discord webhooks effortless, allowing users to create, update, delete, and view them in one place. |
 ## How to Contribute
 
 Found a great repo? All are welcome to open a Pull Request with new projects! Start by reading [CONTRIBUTING.md](CONTRIBUTING.md).
