@@ -327,8 +327,8 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 300 | [SysMood](https://github.com/RayBreeze/SysMood) | C++ | A simple Beginner Friendly C++ Based CLI Tool for Windows (Linux coming) that fetches system stats and interprets them into fun "moods." |
 | 301 | [discord-webhook-manager](https://github.com/ctrixcode/discord-webhook-manager) | TypeScript | A tool designed to make managing Discord webhooks effortless, allowing users to create, update, delete, and view them in one place. |
 |302| [pg-wire-mock](https://github.com/pgwire/pg-wire-mock) | Go | A lightweight mock PostgreSQL server designed for testing and learning Postgres wire protocols.  
-|245| [Hacktoberfest-2025](https://github.com/StrongXscripts/Hacktoberfest-2025) | Multi-language (Java, TypeScript, Go, Python) | A beginner-friendly open-source playground for Hacktoberfest 2025 with real-world tasks across backend, frontend, and scripting projects.
-|244| [Diffium](https://github.com/diffium/diffium) | TypeScript | A CLI tool that visualizes git diffs with AI-powered insights to help developers understand code changes.   
+|303| [Hacktoberfest-2025](https://github.com/StrongXscripts/Hacktoberfest-2025) | Multi-language (Java, TypeScript, Go, Python) | A beginner-friendly open-source playground for Hacktoberfest 2025 with real-world tasks across backend, frontend, and scripting projects.
+|304| [Diffium](https://github.com/diffium/diffium) | TypeScript | A CLI tool that visualizes git diffs with AI-powered insights to help developers understand code changes.   
 
 ## How to Contribute
 
