@@ -329,7 +329,51 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 |302| [pg-wire-mock](https://github.com/pgwire/pg-wire-mock) | Go | A lightweight mock PostgreSQL server designed for testing and learning Postgres wire protocols.  
 |303| [Hacktoberfest-2025](https://github.com/StrongXscripts/Hacktoberfest-2025) | Multi-language (Java, TypeScript, Go, Python) | A beginner-friendly open-source playground for Hacktoberfest 2025 with real-world tasks across backend, frontend, and scripting projects.
 |304| [Diffium](https://github.com/diffium/diffium) | TypeScript | A CLI tool that visualizes git diffs with AI-powered insights to help developers understand code changes.   
-
+| 305 | [StratOS-maneki-neko](https://github.com/StratOS-Linux) | Python | The custom welcome application for the StratOS Linux distribution. (Part of the StratOS-Linux organization.) |
+| 306 | [StratOS Website](https://github.com/StratOS-Linux) | Astro, Starlight | The website for the StratOS Linux distribution, built with Astro and Starlight. (Part of the StratOS-Linux organization.) |
+| 307 | [Rockers](https://github.com/StratOS-Linux) | Rust | The custom package manager script for the StratOS Linux distribution. (Part of the StratOS-Linux organization.) |
+| 308 | [Grab](https://github.com/StratOS-Linux) | C++ | The custom fetch tool for the StratOS Linux distribution. (Part of the StratOS-Linux organization.) |
+| 309 | [mcp-containers](https://github.com/metorial/mcp-containers) | Docker, N/A | Containerized versions of hundreds of MCP (Multi-Crew Project) servers. |
+| 310 | [FaceDetection\_Prototype3](https://github.com/yesiamrajeev/FaceDetection_Prototype3) | Python, OpenCV, Flask | A Face Detection Attendance System integrating machine learning with real-time web functionality, aimed at helping beginners. |
+| 311 | [chip8-emulator](https://github.com/python-fuse/chip8-emulator) | C++, SFML, Dear ImGui | A CHIP-8 Emulator open to contributions for new OPCODES and UI improvements. |
+| 312 | [HordVoice](https://github.com/HordRicJr/HordVoice.git) | Flutter | An AI-powered voice assistant built with Flutter and Azure AI Services. |
+| 313 | [TAIL.ai](https://github.com/TejasS1233/TAIL.ai/issues) | MERN Stack (MongoDB, Express, React, Node.js) | A visual AI agent builder platform utilizing the MERN stack, accepting contributions for Hacktoberfest. |
+| 314 | [StackMate](https://github.com/nst-sdc/StackMate.git) | TypeScript, JavaScript | A multi-purpose VS Code extension that includes notes, JSON tools, color picker, and AI features to make coding easier. |
+| 315 | [MazeBuilder](https://github.com/zmertens/MazeBuilder) | C++ | An open-source learning project that converts simple commands into complex maze strings, usable for game level generation, datasets, and artwork. |
+| 316 | [jarvis](https://github.com/vannu07/jarvis) | Python, OpenCV | A voice-controlled AI assistant with face recognition, offering features like voice commands for PC control and WhatsApp/YouTube automation. |
+| 317 | [Client-Interface](https://github.com/BharatSeva/Client-Interface) | ReactJS, JavaScript | The Frontend (ReactJS) repository for BharatSeva, a real-world project empowering healthcare through tech. |
+| 318 | [HealthCare-Interface](https://github.com/BharatSeva/HealthCare-Interface) | ReactJS, JavaScript | The Frontend (ReactJS) repository for BharatSeva, a real-world project empowering healthcare through tech. |
+| 319 | [Client and Healthcare server (BharatSeva)](https://github.com/BharatSeva) | Golang | The server-side component (Golang) for the Client and Healthcare interfaces of the BharatSeva project. |
+| 320 | [logixia](https://github.com/Logixia/logixia) | TypeScript | An enterprise-grade TypeScript logging library for modern Node.js apps with custom log levels, multiple transports, and analytics support. |
+| 321 | [TripTreat](https://github.com/Lanthoiba2022/TripTreat) | React, TypeScript, Supabase, Tailwind | A booking platform for Northeast India's homestays, eateries, and experiences, seeking help with bug fixes and feature additions. |
+| 322 | [smart-stocks](https://github.com/VishwaKraft/smart-stocks) | Python | A project using Machine Learning models to predict the price of stocks, aimed at building understanding of trading platforms. |
+| 323 | [terraform-provider-validatefx](https://github.com/The-DevOps-Daily/terraform-provider-validatefx) | Go | An open-source Terraform provider that adds handy validation functions like `is_email`, `is_uuid`, and more. |
+| 324 | [snippetstudio](https://github.com/alexanderdombroski/snippetstudio) | N/A | A VS Code extension for managing snippets, currently focusing on feature research and documentation for big ideas. |
+| 325 | [open-project-lab](https://github.com/spyder01/open-project-lab) | N/A | An open-source hub of curated project ideas and submissions across various development categories (Web, AI/ML, Game Dev, etc.). |
+| 326 | [access-anywhere](https://github.com/rahulparihar-30/access-anywhere) | React Native (Frontend) | The frontend for a project aiming to turn a phone into a secure remote for a computer's file system, focusing on true remote access and E2E encryption. |
+| 327 | [access-anywhere-server](https://github.com/rahulparihar-30/access-anywhere-server) | Python/Flask API (Backend) | The backend for a project aiming to provide secure, remote access to a computer's file system via a phone. |
+| 328 | [ClassFetch](https://github.com/DeeptejD/ClassFetch) | JavaScript | A project welcoming Hacktoberfest contributions for new features and issues. |
+| 329 | [HordricWeather](https://github.com/HordRicJr/HordricWeather) | Flutter | A modern and free Flutter weather app with accurate forecasts, smart alerts, air quality, Android widget, and privacy-respecting features. |
+| 330 | [Superheroes-API](https://github.com/CyrilBaah/Superheroes-API) | N/A | A Superheroes API welcoming contributions to fix bugs, add new heroes, or improve features. |
+| 331 | [debezium (AndrGab)](https://github.com/AndrGab/debezium) | FastAPI, WebSocket | A WebSocket-based FastAPI project demonstrating real-time Change Data Capture (CDC) using Debezium and Kafka for educational purposes. |
+| 332 | [groupvoyage](https://github.com/harshmangalam/groupvoyage) | TypeScript, JavaScript | A platform to find local groups, compare prices, and join budget-friendly weekend trips. |
+| 333 | [the-button-that-does-nothing](https://github.com/thecodersroom/the-button-that-does-nothing) | JavaScript | A project focused on "making something useful with something useless" by building a button that does nothing. |
+| 334 | [hermyx](https://github.com/spyder01/hermyx) | Go | A blazing-fast reverse proxy written in Go, built on top of `fasthttp`, designed for speed, caching, and simplicity. |
+| 335 | [activity-log](https://github.com/TheDanniCraft/activity-log) | N/A | A GitHub Action that automatically updates a user's README.md with their latest GitHub activity (commits, PRs, issues). |
+| 336 | [tsbin](https://github.com/PriyanshuPz/tsbin) | TypeScript | A lightweight, open-source snippet/paste-sharing tool. |
+| 337 | [Zenly](https://github.com/Rushorgir/Zenly) | N/A | An open-source mental wellness platform designed to help people find calm, clarity, and support through curated resources and an elegant UI/UX. |
+| 338 | [EasyWiFi](https://github.com/localrice/EasyWiFi) | C++ | An alternative, lightweight WiFi manager for ESP32 devices, focusing on essential WiFi functionality. |
+| 339 | [Lets-Talk-CDC-Change-Feed-Playground](https://github.com/sandgraal/Lets-Talk-CDC-Change-Feed-Playground) | N/A | A free playground for learners and practitioners to explore Change Data Capture (CDC) behavior hands-on, using tools like Debezium. |
+| 340 | [3D-Blockstack](https://github.com/maitri-vv/3D-Blockstack/issues) | three.js, JavaScript | A game built using three.js, looking for contributions. |
+| 341 | [document-editor-with-tiptap](https://github.com/amananandrai/document-editor-with-tiptap) | N/A | A document editor built with Tiptap, seeking contributions from the open-source community. |
+| 342 | [Dialectica-ai](https://github.com/Dialectica-ai/dialectica-ai) | Next.js, Node.js, Socket.io | An open-source platform for structured, real-time debates, aiming to promote critical thinking. |
+| 343 | [soundbind](https://github.com/UselessCo/soundbind) | JavaScript, Node.js, YAML | A cross-platform soundboard system (Node.js app) that maps keyboard shortcuts to audio files, great for beginners. |
+| 344 | [DarkMeet](https://github.com/techSaswata/DarkMeet) | N/A | An AI-powered video conferencing platform. |
+| 345 | [KidCode](https://github.com/Sansi-28/KidCode) | JavaScript | A visual coding language where users turn simple commands into cool drawings, designed to be super beginner-friendly. |
+| 346 | [SDEverse](https://github.com/Harshdev625/SDEverse) | MERN Stack (MongoDB, Express, React, Node.js) | An open-source collaborative platform designed to help learners master Data Structures and Algorithms (DSA) through structured content and community contributions. |
+| 347 | [InsForge](https://github.com/InsForge/InsForge) | TypeScript | A backend platform for AI-driven development providing Auth, Database, Storage, and Functions with production-grade cloud infrastructure out of the box. |
+| 348 | [StratVIM](https://github.com/StratOS-Linux) | Vimscript | The custom Neovim configuration for the StratOS Linux distribution. (Part of the StratOS-Linux organization.) |
+| 349 | [Stratmacs](https://github.com/StratOS-Linux) | Emacs Lisp | The custom Emacs configuration for the StratOS Linux distribution. (Part of the StratOS-Linux organization.) |
 ## How to Contribute
 
 Found a great repo? All are welcome to open a Pull Request with new projects! Start by reading [CONTRIBUTING.md](CONTRIBUTING.md).
