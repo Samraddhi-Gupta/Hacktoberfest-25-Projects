@@ -24,6 +24,7 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 ## Projects
 | Sr. No | Project                                                                                           | Tech Stack                  | Description                                                                                 |
 |--------|---------------------------------------------------------------------------------------------------|-----------------------------|---------------------------------------------------------------------------------------------|
+| 0 | [OptiFit](https://github.com/MasterAffan/OptiFit) | Flutter, Python Flask | An AI-powered fitness application that analyzes exercise form via video processing, provides personalized guidance through AI chat, and tracks progress. |
 | 1  | [golearn](https://github.com/zhravan/golearn)                                                     | Go                          | Rustlings-style CLI exercises to learn Go by solving and verifying small coding puzzles.     |
 | 2  | [terminal-catacomb-crawler](https://github.com/CatacombCrawler/terminal-catacomb-crawler)         | Python                      | Classic ASCII terminal roguelike catacomb/dungeon crawler built with colored retro visuals.  |
 | 3  | [rimmel](https://github.com/reactivehtml/rimmel)                                                  | TypeScript, JS, HTML        | UI library for real DOM apps through event streams and functional/reactive paradigms.        |
