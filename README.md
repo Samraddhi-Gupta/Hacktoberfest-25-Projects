@@ -405,6 +405,7 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 379 | [kanadojo](https://github.com/lingdojo/kanadojo) | TypeScript | A fun, minimalist, and aesthetic platform for learning kanji and Japanese, inspired by Monkeytype. |
 | 380 | [WordWizard](https://github.com/palchhinparihar/WordWizard) | React, Vite, JavaScript, Bootstrap | A text utility application for counting words/characters, changing case, removing spaces, copying text, and toggling light/dark modes. |
 | 381 | [dumpit](https://github.com/Rayan9064/dumpit) | TypeScript | A personal web application for organizing, sharing, and securely managing a user's collection of useful links, tools, and resources. |
+| 382 | [Soundbind](https://github.com/UselessCo/soundbind.git) | React, TailwindCSS, Node.js, Express, MongoDB | AI-driven collaborative soundboard for creating, mixing, and sharing custom audio experiences. |
 ## How to Contribute
 
 Found a great repo? All are welcome to open a Pull Request with new projects! Start by reading [CONTRIBUTING.md](CONTRIBUTING.md).
