@@ -406,6 +406,32 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 380 | [WordWizard](https://github.com/palchhinparihar/WordWizard) | React, Vite, JavaScript, Bootstrap | A text utility application for counting words/characters, changing case, removing spaces, copying text, and toggling light/dark modes. |
 | 381 | [dumpit](https://github.com/Rayan9064/dumpit) | TypeScript | A personal web application for organizing, sharing, and securely managing a user's collection of useful links, tools, and resources. |
 | 382 | [Soundbind](https://github.com/UselessCo/soundbind.git) | React, TailwindCSS, Node.js, Express, MongoDB | AI-driven collaborative soundboard for creating, mixing, and sharing custom audio experiences. |
+| 383 | [open-notebook](https://github.com/lfnovo/open-notebook/) | React, AI/LLM | A full open-source, community-driven alternative to Notebook LM that runs locally with any models, enabling artifact and podcast creation. |
+| 384 | [Quotes-app](https://github.com/shalenMathew/Quotes-app) | Mobile (App Dev) | A quotes application for app developers, the repository has many open issues and is looking for help. |
+| 385 | [Farm-IQ-AI-Powered-Smart-Farming-Assistant](https://github.com/vannu07/Farm-IQ-AI-Powered-Smart-Farming-Assistant) | Python, Flask, ML | An open-source project empowering farmers with AI tools to predict crop health, weather, and yield. |
+| 386 | [screen_off](https://github.com/Musaddiq625/screen_off/) | Flutter | A Flutter plugin to programmatically turn the screen off or on using the proximity sensor, useful for custom calling apps. |
+| 387 | [iina](https://github.com/iina/iina) | macOS | The modern video player for macOS. |
+| 388 | [learningo](https://github.com/anay-208/learningo) | Web App, Gemini | A Web App, Powered by Gemini, that generates lessons and questions based on your topic and helps you revise with MCQs. |
+| 389 | [WardhaMetroFLow](https://github.com/GSSoC-Flow/WardhaMetroFLow) | AI | An AI-powered metro simulation for Wardha with Passenger and Admin views for route planning, monitoring, and traffic analysis. |
+| 390 | [Botanica](https://github.com/Sandali3000/Botanica) | HTML, CSS, JS | A small, no-backend web app for plant lovers to collect and organize their plants, running entirely in the browser. |
+| 391 | [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) | SVG | Miniscule SVG versions (under 1KB each) of your favourite website and app logos. |
+| 392 | [regex-generator](https://github.com/priscillatrevizan/regex-generator) | JavaScript | An open-source tool for generating validated regular expressions based on user-selected criteria, with a guided flow and real-time testing. |
+| 393 | [automagik-tools](https://github.com/namastexlabs/automagik-tools) | Python, TypeScript, Rust | An AI-first toolkit to connect messaging platforms (Omni), orchestrate agents (Hive), schedule workflows (Spark), and assist development. |
+| 394 | [devdunia](https://github.com/echobash/devdunia/) | (Not specified) | An open-source, beginner-friendly toolkit which has 70+ developer tools. |
+| 395 | [clibrowser](https://github.com/v-aibha-v-jain/clibrowser) | Chrome Extension | A CLI-themed new page extension for Chrome, looking for help with bugs and new features like animated blocks and custom commands. |
+| 396 | [stringzy](https://github.com/Samarth2190/stringzy) | JavaScript, TypeScript | A zero-dependency JS string utility NPM library (1.3K+ downloads) looking for contributions for new utilities, docs, and tests. |
+| 397 | [is-a-software](https://github.com/is-a-software/is-a-software) | (Not specified) | A project to register domains directly from a dashboard to use in your projects. |
+| 398 | [GNews](https://github.com/ranahaani/GNews) | Python | A Python news aggregator (1K+ stars, 500K+ downloads) looking for help adding AI sentiment analysis, async support, and a REST API. |
+| 399 | [cua](https://github.com/trycua/cua) | AI, Python | Open-source infrastructure for Computer-Use Agents, including sandboxes, SDKs, and benchmarks to evaluate AI control of desktops. |
+| 400 | [javascript-games](https://github.com/azrilpramudia/javascript-games) | HTML, CSS, JavaScript | A beginner-friendly collection of browser games built with pure JS, where contributors can add their own simple games. |
+| 401 | [na-hora-da-missa](https://github.com/mcruvinel/na-hora-da-missa) | Web Scraper | A beginner-friendly web scraper repository. |
+| 402 | [rawcrop](https://github.com/SirjanSingh/rawcrop) | React, FastAPI, Python | A simple RAW image cropping and preview tool (supports .NEF, .CR2, etc.) using a React frontend and FastAPI backend. |
+| 403 | [Free-Official-Youtube-Content](https://github.com/superlincoln953/Free-Official-Youtube-Content) | Documentation | A project for non-coders to contribute links to official YouTube channels that post free movies, TV shows, and cartoons. |
+| 404 | [LeetcodeAutomater](https://github.com/Omkumar2003/LeetcodeAutomater) | Scripting | A LeetCode automator script that automatically submits answers, looking for contributions to improve it. |
+| 405 | [vizit](https://github.com/masabinhok/vizit) | Next.js, React, TypeScript | An educational web platform that brings algorithms (like Quick Sort, Dijkstra's) to life through real-time, interactive visualizations. |
+| 406 | [yt-snap](https://github.com/SwarnenduG07/yt-snap) | Python | A modern, Python-based YouTube downloader built as a fresh alternative to yt-dlp, currently in its early stages. |
+| 407 | [Screentime-recoder](https://github.com/nst-sdc/Screentime-recoder) | (Not specified) | A project to record screen time, open to contributions and issues. |
+| 408 | [Advance-Tab-Saver](https://github.com/kronpatel/Advance-Tab-Saver) | Chrome Extension | A simple Chrome extension to save, organize, and restore browser tabs easily to prevent tab clutter and boost productivity. |
 ## How to Contribute
 
 Found a great repo? All are welcome to open a Pull Request with new projects! Start by reading [CONTRIBUTING.md](CONTRIBUTING.md).
