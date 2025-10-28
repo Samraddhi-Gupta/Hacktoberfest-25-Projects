@@ -432,6 +432,7 @@ Please **star this repository** ⭐️  to keep track of all the latest Hacktobe
 | 406 | [yt-snap](https://github.com/SwarnenduG07/yt-snap) | Python | A modern, Python-based YouTube downloader built as a fresh alternative to yt-dlp, currently in its early stages. |
 | 407 | [Screentime-recoder](https://github.com/nst-sdc/Screentime-recoder) | (Not specified) | A project to record screen time, open to contributions and issues. |
 | 408 | [Advance-Tab-Saver](https://github.com/kronpatel/Advance-Tab-Saver) | Chrome Extension | A simple Chrome extension to save, organize, and restore browser tabs easily to prevent tab clutter and boost productivity. |
+| 409 | [MediDiet AI](https://github.com/niksbanna/medidiet-app) | Typescript | AI-powered nutrition management app for medical conditions. Personalized meal plans via Gemini API, health tracking, and premium UI. |
 ## How to Contribute
 
 Found a great repo? All are welcome to open a Pull Request with new projects! Start by reading [CONTRIBUTING.md](CONTRIBUTING.md).
